@@ -1,9 +1,21 @@
- gcc -g p1original.c -lm
- ./a.out
-enter the first points
-2 3
-enter the second points
-1 5
-the distance between two points is 4.123106 
+ gcc -g p1original.c -lm;./a.out
+enter the first points:
+2
+3
+enter the second points:
+1
+5
+the distance between two points is 2.236068 
  
+
+
+
+
+
+
+
+
+
+
+
 
